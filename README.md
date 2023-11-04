@@ -1,4 +1,16 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://drive.google.com/file/d/1JPlei94dZLJf64FLxSeaF5AKuUJ47blv/view?usp=share_link)
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/32605754/87495507-938d0580-c61f-11ea-997c-8a3da7998c45.png" width="200"></img> <!-- Avatar -->
+  <br>
+  Hi there! 👋 I'm Yash.
+</h1>
+
+<p align="center">
+  LinkedIn: <a href="https://www.linkedin.com/in/yashvarshney2001/">redis</a> &middot;
+  Website: <a href="https://spideryashh.github.io/Prepbytes_FullStackDev/personal_portfolio/home.html">Portfolio</a> &middot;
+  Email: <a href="mailto:yashvarshney2001@gmail.com">hello@yashVarshney</a>
+</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
