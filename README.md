@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spideryashh&label=Profile%20views&color=0e75b6&style=flat" alt="spideryashh" /> </p>
 
-- 🔭 I’m currently working on **Insta_clone**
+- 🔭 I’m currently working on **Mitra Mandal**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
